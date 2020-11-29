@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\GitLab\bin\Debug\GitLab.exe.config
+c:\users\user\documents\visual studio 2015\Projects\GitLab\bin\Debug\GitLab.exe
+c:\users\user\documents\visual studio 2015\Projects\GitLab\bin\Debug\GitLab.pdb
+c:\users\user\documents\visual studio 2015\Projects\GitLab\obj\Debug\GitLab.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\GitLab\obj\Debug\GitLab.exe
+c:\users\user\documents\visual studio 2015\Projects\GitLab\obj\Debug\GitLab.pdb
