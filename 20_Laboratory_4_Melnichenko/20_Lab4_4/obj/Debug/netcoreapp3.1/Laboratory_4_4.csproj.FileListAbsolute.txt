@@ -1,0 +1,12 @@
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\bin\Debug\netcoreapp3.1\Laboratory_4_4.exe
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\bin\Debug\netcoreapp3.1\Laboratory_4_4.deps.json
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\bin\Debug\netcoreapp3.1\Laboratory_4_4.runtimeconfig.json
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\bin\Debug\netcoreapp3.1\Laboratory_4_4.runtimeconfig.dev.json
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\bin\Debug\netcoreapp3.1\Laboratory_4_4.dll
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\bin\Debug\netcoreapp3.1\Laboratory_4_4.pdb
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\obj\Debug\netcoreapp3.1\Laboratory_4_4.csproj.CoreCompileInputs.cache
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\obj\Debug\netcoreapp3.1\Laboratory_4_4.AssemblyInfoInputs.cache
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\obj\Debug\netcoreapp3.1\Laboratory_4_4.AssemblyInfo.cs
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\obj\Debug\netcoreapp3.1\Laboratory_4_4.dll
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\obj\Debug\netcoreapp3.1\Laboratory_4_4.pdb
+C:\Users\SASHA\Desktop\Лабораторные работы ООП\Laboratory_4\20_Lab4_4\obj\Debug\netcoreapp3.1\Laboratory_4_4.genruntimeconfig.cache
