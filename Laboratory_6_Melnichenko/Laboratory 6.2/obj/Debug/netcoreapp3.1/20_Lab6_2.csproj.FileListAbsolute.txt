@@ -1,0 +1,17 @@
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\bin\Debug\netcoreapp3.1\20_Lab6_2.exe
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\bin\Debug\netcoreapp3.1\Media\DING.WAV
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\bin\Debug\netcoreapp3.1\Media\Вище неба.mp3
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\bin\Debug\netcoreapp3.1\20_Lab6_2.deps.json
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\bin\Debug\netcoreapp3.1\20_Lab6_2.runtimeconfig.json
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\bin\Debug\netcoreapp3.1\20_Lab6_2.runtimeconfig.dev.json
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\bin\Debug\netcoreapp3.1\20_Lab6_2.dll
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\bin\Debug\netcoreapp3.1\20_Lab6_2.pdb
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\obj\Debug\netcoreapp3.1\20_Lab6_2.csprojAssemblyReference.cache
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\obj\Debug\netcoreapp3.1\20_Lab6_2.AssemblyInfoInputs.cache
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\obj\Debug\netcoreapp3.1\20_Lab6_2.AssemblyInfo.cs
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\obj\Debug\netcoreapp3.1\20_Lab6_2.csproj.CoreCompileInputs.cache
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\obj\Debug\netcoreapp3.1\20_Lab6_2.dll
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\obj\Debug\netcoreapp3.1\20_Lab6_2.pdb
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\obj\Debug\netcoreapp3.1\20_Lab6_2.genruntimeconfig.cache
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\bin\Debug\netcoreapp3.1\Media\sample.mkv
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_2\bin\Debug\netcoreapp3.1\Media\Invalid.txt

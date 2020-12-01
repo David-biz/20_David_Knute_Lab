@@ -1,0 +1,13 @@
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\bin\Debug\netcoreapp3.1\20_Lab6_1.exe
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\bin\Debug\netcoreapp3.1\20_Lab6_1.deps.json
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\bin\Debug\netcoreapp3.1\20_Lab6_1.runtimeconfig.json
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\bin\Debug\netcoreapp3.1\20_Lab6_1.runtimeconfig.dev.json
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\bin\Debug\netcoreapp3.1\20_Lab6_1.dll
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\bin\Debug\netcoreapp3.1\20_Lab6_1.pdb
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\obj\Debug\netcoreapp3.1\20_Lab6_1.csprojAssemblyReference.cache
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\obj\Debug\netcoreapp3.1\20_Lab6_1.AssemblyInfoInputs.cache
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\obj\Debug\netcoreapp3.1\20_Lab6_1.AssemblyInfo.cs
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\obj\Debug\netcoreapp3.1\20_Lab6_1.csproj.CoreCompileInputs.cache
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\obj\Debug\netcoreapp3.1\20_Lab6_1.dll
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\obj\Debug\netcoreapp3.1\20_Lab6_1.pdb
+C:\Users\Quarmint\Documents\Visual Studio 2019\Projects\20_Lab6\20_Lab6_1\obj\Debug\netcoreapp3.1\20_Lab6_1.genruntimeconfig.cache
